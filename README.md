@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack | Frontend Developer</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=lokesh0004&color=0e75b6)
-<iframe src="https://giphy.com/embed/fdJqS4gemHacdjPyL7" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oggy-and-the-cockroaches-cockroaches-oggy-and-the-fdJqS4gemHacdjPyL7">via GIPHY</a></p>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTljZnk0bGhhbzVvemVlNnluNWdhNWw5bm85c240cjUxamJuenFzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdJqS4gemHacdjPyL7/giphy.gif" />
 
 🌱 I’m currently learning DSA in C++ and Full Stack Development
 
